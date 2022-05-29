@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
-- 🌱 I’m currently learning **Spanish**
+- 🌱 I’m currently learning **Spanish** and **Node.JS**
 
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
