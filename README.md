@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaynah</h1>
-<h3 align="center">A Full Stack developer in California 🌵</h3>
+<img src="plant header.png">
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
