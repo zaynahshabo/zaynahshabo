@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Spanish** and **Node.JS**
 
-<!-- - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com) -->
+- 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
-📫[Send me and email]<shabozaynah@gmail.com>:wave:
+- 📫 *[Send an email](shabozaynah@gmail.com)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
