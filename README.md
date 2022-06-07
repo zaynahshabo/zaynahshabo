@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com) -->
 
-📫 How to reach me **shabozaynah@gmail.com** 
+📫<a href="mailto:shabozaynah@gmail.com> Say Hello </a>:wave: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
