@@ -2,7 +2,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaynahshabo&theme=gotham)](https://git.io/streak-stats)	
+- 🔭 I’m currently working on **a Wellness App :sparkle:**
+
+- 🌱 I’m currently learning **Spanish** and **Node.JS**
+
+- 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
+
+- 📫 [Email](shabozaynah@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ancient_trees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ancient_trees" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zaynahshabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaynahshabo" height="30" width="40" /></a>
+</p>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -32,21 +46,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **a Wellness App :sparkle:**
 
-- 🌱 I’m currently learning **Spanish** and **Node.JS**
-
-- 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
-
-- 📫 [Email](shabozaynah@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ancient_trees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ancient_trees" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zaynahshabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaynahshabo" height="30" width="40" /></a>
-</p>
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaynahshabo&theme=gotham)](https://git.io/streak-stats)	
 
 
