@@ -1,8 +1,9 @@
 ![banner image abstract](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner%20purple.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaynahshabo&theme=gotham)](https://git.io/streak-stats)	
+</p>
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaynahshabo&theme=gotham)](https://git.io/streak-stats) </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
