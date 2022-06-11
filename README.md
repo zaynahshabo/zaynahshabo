@@ -1,4 +1,4 @@
-<img src="plant header.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
 ![banner image abstract](banner%20purple.png)
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
