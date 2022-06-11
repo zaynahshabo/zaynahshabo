@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
-![banner image abstract](banner%20purple.png)
+![banner image abstract]([banner%20purple.png](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner%20purple.png))
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
