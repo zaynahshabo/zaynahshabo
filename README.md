@@ -1,5 +1,5 @@
 <img src="plant header.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
+![banner image abstract colors](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner%20purple.png)
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
-- 📫 *[Send an email](shabozaynah@gmail.com)*
+- 📫 [Email](shabozaynah@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
