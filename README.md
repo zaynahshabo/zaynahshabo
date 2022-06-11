@@ -1,5 +1,5 @@
 <img src="plant header.png">
-![banner image abstract colors](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner%20purple.png)
+![banner image abstract](banner%20purple.png)
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
