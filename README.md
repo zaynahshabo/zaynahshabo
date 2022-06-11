@@ -40,7 +40,5 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 </p>
 
-<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaynahshabo&theme=gotham)](https://git.io/streak-stats)	
-</p>
 
