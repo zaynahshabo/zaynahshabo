@@ -1,4 +1,4 @@
-![banner image abstract](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner%20purple.png)
+![banner image abstract](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
 
