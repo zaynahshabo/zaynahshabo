@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
-- 🌱 I’m currently learning **Spanish** and **Obsessed with Puzzles**
+- 🌱 I’m currently learning **Spanish** and **Obsessed with Puzzles** 🔍
 
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
-- 📫 [Email](shabozaynah@gmail.com)
+- 📫 [Email me:](shabozaynah@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
