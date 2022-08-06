@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a Wellness App :sparkle:**
 
-- 🌱 I’m currently learning **Spanish** and **Node.JS**
+- 🌱 I’m currently learning **Spanish** and **Obsessed with Puzzles**
 
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
