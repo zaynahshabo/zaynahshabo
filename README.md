@@ -2,10 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
 
-- 🔭 I’m currently working on **a Wellness App :sparkle:**
-
-- 🌱 I’m currently learning **Spanish** and **Obsessed with Puzzles** 🔍
-
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
 - 📫 [Email me](shabozaynah@gmail.com)
