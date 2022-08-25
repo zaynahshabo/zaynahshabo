@@ -1,7 +1,5 @@
 ![banner image abstract](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
-
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
 - 📫 [Email me](shabozaynah@gmail.com)
@@ -35,6 +33,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaynahshabo&theme=gotham)](https://git.io/streak-stats)	
 
