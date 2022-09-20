@@ -1,6 +1,6 @@
 
 
-
+- Hello, I'm Zaynah. Let's make something beautiful! ✨
 
 - 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
 
