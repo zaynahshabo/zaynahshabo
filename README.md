@@ -1,4 +1,4 @@
-![banner image abstract](https://github.com/zaynahshabo/zaynahshabo/blob/main/banner.png)
+
 
 
 
