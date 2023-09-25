@@ -2,7 +2,7 @@
 
 - Hello, I'm Zaynah. Let's make something beautiful! ✨
 
-- 👨‍💻 All of my projects are available at [zaynahshabo.com](zaynahshabo.com)
+- 👨‍💻 All of my projects are available at [zaynahshabo.com](https://zaynahshabo.com/)
 
 - 📫 [Email me](shabozaynah@gmail.com)
 
