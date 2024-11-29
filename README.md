@@ -33,11 +33,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-
   <a href="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="figma" width="40" height="40"/></a> 
-
-  https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg
+  <a href="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaynahshabo&label=Profile%20views&color=0e75b6&style=flat" alt="zaynahshabo" /> </p>
