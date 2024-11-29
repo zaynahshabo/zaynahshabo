@@ -8,7 +8,7 @@
 
 - ✏️ Specializing in full-service ecommerce solutions, including: branding, Go-To-Market Strategy, User Experience 
 
-- 🕸️ Platforms including Shopify, WordPress, and custom coded sites. 
+- 🕸️ Platforms including Shopify, WordPress, and custom coded sites
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
