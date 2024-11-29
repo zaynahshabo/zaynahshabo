@@ -4,7 +4,9 @@
 
 - 👨‍💻 Visit my website portfolio at [zaynahshabo.com](https://zaynahshabo.com)
 
-- 📫 [Email me](mailto:shabozaynah@gmail.com) 
+- 📫 [Email me](mailto:shabozaynah@gmail.com)
+
+- 🕸️Specializing in full-service ecommerce solutions, including: branding, Go-To-Market Strategy, User Experience on platforms including Shopify, WordPress, and custom coded sites. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
