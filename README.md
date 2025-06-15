@@ -6,7 +6,7 @@
 
 - 📫 [Email me](mailto:shabozaynah@gmail.com)
 
-- ✏️ Specializing in full-service ecommerce solutions, including: branding, Go-To-Market Strategy, User Experience 
+- ✏️ Specializing in full-service ecommerce solutions, including: Front-End Development, Customizations, Platform Integration, Branding, Go-To-Market Strategy, User Experience 
 
 - 🕸️ Platforms including Shopify, WordPress, and custom coded sites
 
